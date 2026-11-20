@@ -1,0 +1,6 @@
+{
+  "name": "FlappyML Studio",
+  "description": "Train a neuroevolution machine learning bot to master Flappy Bird and export it as a universal script for any website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
